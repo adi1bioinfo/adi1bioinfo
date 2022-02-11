@@ -6,7 +6,8 @@
 - :handshake: I’m looking for help with complex MD simulation analysis
 -  Know about my journey :link: www.linkedin.com/in/aditi-laddha
 
-<h3> Languages </h3>
+
+
 
 <!---
 adi1bioinfo/adi1bioinfo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
